@@ -1,2 +1,2 @@
-# fullstack_admin_dashboard
+# Fullstack Admin Dashboard (CRUD)
  Based with php using MySQL database
